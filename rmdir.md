@@ -1,0 +1,1 @@
+rmdir removes a directory.
